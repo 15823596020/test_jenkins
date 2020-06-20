@@ -11,7 +11,7 @@
 """
 import pytest
 
-from test_jenkins.test_weather.library.httpclient import HttpClient
+from test_jenkins.weather.library.httpclient import HttpClient
 
 
 class TestWeather:
